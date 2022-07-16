@@ -1,0 +1,1 @@
+Convert Polygons in XML files to Bounding Boxes COCO format.
